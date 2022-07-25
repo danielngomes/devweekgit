@@ -1,2 +1,2 @@
-# https://danielngomes.github.io/devweekgit
+# danielngomes.github.io/devweekgit.github.io
 Currículo do Jornada Dev
